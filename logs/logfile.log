@@ -1,0 +1,18 @@
+DEBUG | 2021-06-04 23:39:25 | [main] JavaPracticeNew.App (App.java:12) - Hello World!will be printed on debug
+INFO  | 2021-06-04 23:39:25 | [main] JavaPracticeNew.App (App.java:13) - Hello World!will be printed on info
+WARN  | 2021-06-04 23:39:25 | [main] JavaPracticeNew.App (App.java:14) - Hello World!will be printed on warm
+ERROR | 2021-06-04 23:39:25 | [main] JavaPracticeNew.App (App.java:15) - Hello World!will be printed on error
+FATAL | 2021-06-04 23:39:25 | [main] JavaPracticeNew.App (App.java:16) - Hello World!will be printed on fatal
+INFO  | 2021-06-04 23:39:25 | [main] JavaPracticeNew.App (App.java:17) - Appending string:Hello World!
+DEBUG | 2021-06-05 00:08:41 | [main] JavaPracticeNew.App (App.java:12) - Hello World!will be printed on debug
+INFO  | 2021-06-05 00:08:41 | [main] JavaPracticeNew.App (App.java:13) - Hello World!will be printed on info
+WARN  | 2021-06-05 00:08:41 | [main] JavaPracticeNew.App (App.java:14) - Hello World!will be printed on warm
+ERROR | 2021-06-05 00:08:41 | [main] JavaPracticeNew.App (App.java:15) - Hello World!will be printed on error
+FATAL | 2021-06-05 00:08:41 | [main] JavaPracticeNew.App (App.java:16) - Hello World!will be printed on fatal
+INFO  | 2021-06-05 00:08:41 | [main] JavaPracticeNew.App (App.java:17) - Appending string:Hello World!
+DEBUG | 2021-06-05 11:36:25 | [main] JavaPracticeNew.App (App.java:12) - Hello World!will be printed on debug
+INFO  | 2021-06-05 11:36:25 | [main] JavaPracticeNew.App (App.java:13) - Hello World!will be printed on info
+WARN  | 2021-06-05 11:36:25 | [main] JavaPracticeNew.App (App.java:14) - Hello World!will be printed on warm
+ERROR | 2021-06-05 11:36:25 | [main] JavaPracticeNew.App (App.java:15) - Hello World!will be printed on error
+FATAL | 2021-06-05 11:36:25 | [main] JavaPracticeNew.App (App.java:16) - Hello World!will be printed on fatal
+INFO  | 2021-06-05 11:36:25 | [main] JavaPracticeNew.App (App.java:17) - Appending string:Hello World!
